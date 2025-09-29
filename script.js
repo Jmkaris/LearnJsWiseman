@@ -21,7 +21,7 @@
 // let sum = inputx + inputy;
 // console.log(sum);
 
-//Generating a random number
+//                                            Generating a random number
 
 // let randomNumber = Math.floor(Math.random() * 100); //10 exclusive
 // console.log(randomNumber);
@@ -45,7 +45,10 @@
 // }
 // console.log(age);
 
-const gravity = 9.8;
-// gravity = 10;
+//                                 VARIABLES
+// const gravity = 9.8;
+// // gravity = 10;
 
-console.log(gravity);
+// console.log(gravity);
+let number = "5";
+let name = "James";
