@@ -23,5 +23,16 @@
 
 //Generating a random number
 
-let randomNumber = Math.floor(Math.random() * 100); //10 exclusive
-console.log(randomNumber);
+// let randomNumber = Math.floor(Math.random() * 100); //10 exclusive
+// console.log(randomNumber);
+
+// let myAge = Math.floor(Math.random() * 0.1);
+
+firstName = "James";
+firstName = "Karis";
+firstName = 45;
+firstline = true;
+firstName = "01bc";
+age = 33;
+AGE = 43;
+FIRSTNAME = "James";
