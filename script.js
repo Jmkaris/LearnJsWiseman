@@ -50,5 +50,11 @@
 // // gravity = 10;
 
 // console.log(gravity);
+
 let number = "5";
 let name = "James";
+let message = 'What "is" your name';
+
+console.log(number);
+console.log(name);
+console.log(message);
