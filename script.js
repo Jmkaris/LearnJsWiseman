@@ -65,12 +65,17 @@
 // console.log(`my name is ${name}`);
 // console.log(message);
 
-let firstname = prompt("Input your first name: ");
-let random = Math.floor(Math.random() * 35);
-console.log(random);
+// let firstname = prompt("Input your first name: ");
+// let random = Math.floor(Math.random() * 35);
+// console.log(random);
 
-if (random < 20) {
-  console.log("Try again");
-} else {
-  console.log(`welcome ${firstname}. Your random number is ${random}`);
-}
+// if (random < 20) {
+//   console.log("Try again");
+// } else {
+//   console.log(`welcome ${firstname}. Your random number is ${random}`);
+// }
+
+let s = 3;
+let s1 = 5;
+
+console.log(`the sum of ${s} and ${s1} is : ${s1 + s}`);
