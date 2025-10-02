@@ -51,10 +51,26 @@
 
 // console.log(gravity);
 
-let number = "5";
-let name = "James";
-let message = 'What "is" your name';
+// let number = "5";
+// let age = 21;
+// let name = "James";
+// let message = age + " " + number;
 
-console.log(number);
-console.log(name);
-console.log(message);
+// // console.log(number);
+// // console.log(name);
+// // console.log(message);
+
+// // string concantination
+
+// console.log(`my name is ${name}`);
+// console.log(message);
+
+let firstname = prompt("Input your first name: ");
+let random = Math.floor(Math.random() * 35);
+console.log(random);
+
+if (random < 20) {
+  console.log("Try again");
+} else {
+  console.log(`welcome ${firstname}. Your random number is ${random}`);
+}
