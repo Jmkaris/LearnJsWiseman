@@ -79,3 +79,13 @@ let s = 3;
 let s1 = 5;
 
 console.log(`the sum of ${s} and ${s1} is : ${s1 + s}`);
+
+// ARRAYS
+
+let friends = [
+  { name: "Bethuel Kiptoo", School: "KYU", Church: "Kyusda" },
+  { name: "James Kariuki", School: "KYUS", Church: "SDA" },
+  { name: "LLoyd Brown", School: "Kirinyaga", Church: "Kyu" },
+];
+
+friends[0].name;
