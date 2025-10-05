@@ -90,6 +90,7 @@ let friends = [
 
 // friends.forEach((fruit) => console.log(fruit.School));
 
-const friendName = friends.map((friend) => friend);
-
-console.log(friendName);
+// const friendName = friends.map((friend) => friend);
+// console.log(friendName);
+// const nameOf = friends.filter((friend) => friend.name);
+// console.log(nameOf);
