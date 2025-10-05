@@ -88,5 +88,8 @@ let friends = [
   { name: "LLoyd Brown", School: "Kirinyaga", Church: "Kyu" },
 ];
 
-friends.push({ name: "Martin Kiarie", School: "Kyu", Church: "KYUCU" });
-console.log(friends);
+// friends.forEach((fruit) => console.log(fruit.School));
+
+const friendName = friends.map((friend) => friend);
+
+console.log(friendName);
