@@ -88,4 +88,5 @@ let friends = [
   { name: "LLoyd Brown", School: "Kirinyaga", Church: "Kyu" },
 ];
 
-friends[0].name;
+friends.push({ name: "Martin Kiarie", School: "Kyu", Church: "KYUCU" });
+console.log(friends);
